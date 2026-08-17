@@ -9011,6 +9011,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-08-17 08:24:18 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/carrot_crate": {
     "criteria": {
       "has_carrot": "2026-08-17 08:22:56 +0000"
