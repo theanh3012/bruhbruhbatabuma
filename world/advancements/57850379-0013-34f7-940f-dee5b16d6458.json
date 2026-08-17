@@ -9052,6 +9052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-08-17 08:10:27 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipe/candy": {
     "criteria": {
       "has_item_minecraft_paper_2": "2026-08-17 07:48:39 +0000"
