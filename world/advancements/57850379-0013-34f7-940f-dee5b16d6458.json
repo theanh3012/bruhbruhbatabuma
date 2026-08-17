@@ -9119,5 +9119,11 @@
     },
     "done": true
   },
+  "supplementaries:recipe/cannon_boat_oak": {
+    "criteria": {
+      "has_item_minecraft_oak_boat_2": "2026-08-17 08:40:03 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3955
 }
