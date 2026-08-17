@@ -8089,6 +8089,12 @@
     },
     "done": true
   },
+  "create_enchantment_industry:spirit_taking": {
+    "criteria": {
+      "0": "2026-08-17 08:05:04 +0000"
+    },
+    "done": true
+  },
   "quark:recipes/building_blocks/building/crafting/vertslabs/cobblestone_vertical_slab": {
     "criteria": {
       "obtained_slab": "2026-08-17 07:56:59 +0000"
