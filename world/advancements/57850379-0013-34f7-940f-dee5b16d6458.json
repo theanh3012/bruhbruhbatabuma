@@ -9011,30 +9011,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2026-08-17 08:24:18 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/carrot_crate": {
-    "criteria": {
-      "has_carrot": "2026-08-17 08:22:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2026-08-17 08:22:56 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/rabbit_stew": {
-    "criteria": {
-      "has_any_ingredient": "2026-08-17 08:22:56 +0000"
-    },
-    "done": true
-  },
   "create:recipes/combat/crafting/appliances/netherite_backtank_from_netherite": {
     "criteria": {
       "has_item": "2026-08-17 07:48:39 +0000"
@@ -9050,12 +9026,6 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2026-08-17 07:48:39 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/vegetable_noodles": {
-    "criteria": {
-      "has_any_ingredient": "2026-08-17 08:22:56 +0000"
     },
     "done": true
   },
@@ -9083,18 +9053,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/lapis_lazuli": {
-    "criteria": {
-      "has_lapis_block": "2026-08-17 08:10:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/carrot_on_a_stick": {
-    "criteria": {
-      "has_carrot": "2026-08-17 08:22:56 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipe/candy": {
     "criteria": {
       "has_item_minecraft_paper_2": "2026-08-17 07:48:39 +0000"
@@ -9116,6 +9074,48 @@
   "supplementaries:recipe/trapped_present_2": {
     "criteria": {
       "has_item_minecraft_paper_1": "2026-08-17 07:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2026-08-17 08:10:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/carrot_crate": {
+    "criteria": {
+      "has_carrot": "2026-08-17 08:22:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-17 08:22:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/rabbit_stew": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-17 08:22:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/vegetable_noodles": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-17 08:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2026-08-17 08:22:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2026-08-17 08:24:18 +0000"
     },
     "done": true
   },
