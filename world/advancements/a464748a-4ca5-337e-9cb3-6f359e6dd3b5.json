@@ -8102,9 +8102,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2026-08-17 08:51:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/chicken_soup": {
+    "criteria": {
+      "has_any_ingredient": "2026-08-17 08:51:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2026-08-17 08:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2026-08-17 08:51:43 +0000"
     },
     "done": true
   },
@@ -8123,6 +8141,12 @@
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2026-08-17 08:40:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2026-08-17 08:51:43 +0000"
     },
     "done": true
   },
